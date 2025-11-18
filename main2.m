@@ -1,3 +1,5 @@
+% I'm pretty sure this is not fully functional and was mostly just a prototype. Feel free to disregard.
+
 clear;
 close all;
 ingestVariables;
